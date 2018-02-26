@@ -1,0 +1,20 @@
+{
+  "name": "hangmanCLI",
+  "version": "1.0.0",
+  "description": "Play Hangman using Node via your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gxb415/hangmanCLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gxb415/hangmanCLI/issues"
+  },
+  "homepage": "https://github.com/gxb415/hangmanCLI#readme"
+}
